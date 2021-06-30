@@ -1,0 +1,48 @@
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\bin\Debug\Serial.exe.config
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\bin\Debug\Serial.exe.manifest
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\bin\Debug\Serial.application
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\bin\Debug\Serial.exe
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\bin\Debug\Serial.pdb
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csprojAssemblyReference.cache
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.Form1.resources
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.Form2.resources
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.Properties.Resources.resources
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csproj.GenerateResource.cache
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csproj.CoreCompileInputs.cache
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.exe.manifest
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.application
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csproj.CopyComplete
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.exe
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.pdb
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\bin\Debug\Serial.exe.config
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\bin\Debug\Serial.exe.manifest
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\bin\Debug\Serial.application
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\bin\Debug\Serial.exe
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\bin\Debug\Serial.pdb
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csprojAssemblyReference.cache
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.Form1.resources
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.Form2.resources
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.Properties.Resources.resources
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csproj.GenerateResource.cache
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csproj.CoreCompileInputs.cache
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.exe.manifest
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.application
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csproj.CopyComplete
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.exe
+G:\Meu Drive\1_UFOP_PERIODO_LETIVO\2020-2 PROFICAM\CAM210\Supervisorio\Supervisorio\Serial\obj\x86\Debug\Serial.pdb
+C:\Users\mcdto\Desktop\Supervisorio\Serial\bin\Debug\Serial.exe.config
+C:\Users\mcdto\Desktop\Supervisorio\Serial\bin\Debug\Serial.exe.manifest
+C:\Users\mcdto\Desktop\Supervisorio\Serial\bin\Debug\Serial.application
+C:\Users\mcdto\Desktop\Supervisorio\Serial\bin\Debug\Serial.exe
+C:\Users\mcdto\Desktop\Supervisorio\Serial\bin\Debug\Serial.pdb
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csprojAssemblyReference.cache
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Serial.Form1.resources
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Serial.Form2.resources
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Serial.Properties.Resources.resources
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csproj.GenerateResource.cache
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csproj.CoreCompileInputs.cache
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Serial.exe.manifest
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Serial.application
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Supervisorio.csproj.CopyComplete
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Serial.exe
+C:\Users\mcdto\Desktop\Supervisorio\Serial\obj\x86\Debug\Serial.pdb
